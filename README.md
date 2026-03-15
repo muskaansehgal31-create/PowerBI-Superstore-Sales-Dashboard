@@ -1,11 +1,22 @@
 # PowerBI-Superstore-Sales-Dashboard
-Project Overview
+📌 Project Overview
 
-This project presents an interactive Business Sales Performance Dashboard built using Microsoft Power BI. The goal of this dashboard is to analyze and visualize sales data from the Superstore dataset to evaluate the overall business performance and identify key trends, opportunities, and areas for improvement.
+This project analyzes business sales performance using an interactive dashboard built in Microsoft Power BI.
 
-The dashboard provides a clear overview of important business metrics such as Total Sales, Total Profit, Total Orders, Profit Margin, and Average Discount. It also includes interactive visualizations that allow users to explore sales performance across different regions, product categories, shipping modes, and time periods.
+The objective of this project is to explore sales data and identify revenue trends, top-selling products, high-value categories, and regional performance to support better business decision-making.
 
-By using dynamic filters and visual analytics, this dashboard helps in understanding revenue trends, identifying top-performing products and regions, and assessing the overall health of the business. The project demonstrates how data visualization can support better decision-making by transforming raw sales data into meaningful insights.
+The dashboard presents key KPIs and visual insights that help understand how the business is performing across different dimensions such as time, region, product category, and shipping mode.
 
-This project showcases skills in data cleaning, data modeling, KPI creation, and interactive dashboard design using Power BI.
+🎯 Project Objectives
 
+- Analyze overall sales and profit performance.
+
+- Identify top-performing products.
+
+- Understand regional sales distribution.
+
+- Evaluate profit margins and discount impact.
+
+- Track yearly sales growth trends.
+
+  
